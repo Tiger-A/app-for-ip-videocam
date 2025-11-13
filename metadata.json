@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IP Camera Viewer",
+  "description": "A web application to view video streams from an IP camera on a local network. This version provides the core functionality for viewing the stream, with plans to add people tracking and face recognition in the future.",
+  "requestFramePermissions": []
+}
